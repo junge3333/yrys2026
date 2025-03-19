@@ -108,9 +108,31 @@ MyTV粤語片台,http://j.s.bkpcp.top/jj/yypt
 
 💝推流秒开,#genre#
 PopC电影,http://go1.bkpcp.top/tl/popc
-http://cdn9.163189.xyz/smt1.1.php?id=Celestial
+
 天映频道a,http://php.jdshipin.com/smt.php?id=Celestial
 天映经典a,http://php.jdshipin.com/smt.php?id=Celestial2
+無線衛星亞洲台,https://live.tvfix.org/live/tvbs/index.m3u8
+無線衛星亞洲台,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
+無線衛星亞洲台,https://live.tvfix.org/live/tvbs/2/a128000/index.m3u8
+無線衛星亞洲台,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+
+美亞電影台,https://live.tvfix.org/live/mydy/index.m3u8
+美亞電影台,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+美亞電影台,https://live.tvfix.org/live/mydy/1/a128000/index.m3u8
+天映經典頻道,https://live.tvfix.org/live/tyjd/1/a128000/index.m3u8
+天映經典頻道,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+PopC電影,https://live.tvfix.org/live/popc/index.m3u8
+PopC電影,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
+PopC電影,https://live.tvfix.org/live/popc/2/a128000/index.m3u8
+AXN電影,https://live.tvfix.org/live/axn/1/v2500000/index.m3u8
+AXN電影,https://live.tvfix.org/live/axn/1/v4000000/index.m3u8
+AXN電影,https://live.tvfix.org/live/axn/1/a128000/index.m3u8
+tvN,https://live.tvfix.org/live/tvn/1/v4000000/index.m3u8
+tvN,https://live.tvfix.org/live/tvn/1/a128000/index.m3u8
+
+KIX,https://live.tvfix.org/live/kix/1/v4000000/index.m3u8
+KIX,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
+KIX,https://live.tvfix.org/live/popc/2/a128000/index.m3u8
 
 
 
