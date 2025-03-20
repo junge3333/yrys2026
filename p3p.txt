@@ -1,3 +1,66 @@
+AKTV.鍏嶇炕鐗�
+28 AI 鏅烘収璩介Μ,http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+TVBS-鏂拌仦鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+涓ぉ鏂拌仦鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+鍗冪Η缍撳吀鍙�(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+濞涙▊鏂拌仦鍙�(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+瀵板畤鏂拌仦鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+鏄庣彔鍓ч泦鍙�(鍖楃編),http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+鏄庣彔鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+鐒＄窔鏂拌仦鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+缇庝簽闆诲奖鍙�(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+缈＄繝鍓ч泦鍙�(鍖楃編),http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+缈＄繝鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+缈＄繝缁煎悎鍙�(鍖楃編),http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+槌冲嚢涓枃,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+槌冲嚢璩囪▕,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+槌冲嚢棣欐腐,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+榛冮噾缈＄繝鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+AXN,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+鏃犵嚎鏂伴椈鍙�(鍖楃編),http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+鏉辨．鏂拌仦,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+Animax(HK),http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+DW,http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+France 24,http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+KIX,http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+NHK World-Japan,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+NHK鏉变含绶忓悎,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+浜炴床鏂拌仦鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+鏉辨柟琛涜鍦嬮殯闋婚亾,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+鐒＄窔琛涙槦鏂拌仦鍙�,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+4K棰戦亾,#genre#
+4K60PSDR-H264-AAC娴嬭瘯https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
+4K60PHLG-HEVC-EAC3娴嬭瘯https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
+cctv16,http://154.12.37.223:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+cctv16,http://154.12.37.223:35455/gaoma/cctv4k16.m3u8
+cctv4k,http://154.12.37.223:35455/gaoma/cctv4k.m3u8
+鍖椾含IPTV4K,http://154.12.37.223:35455/bptv/10000100000000050000000003887500銆� m3u8
+鍖椾含浣撹偛浼戦棽,http://154.12.37.223:35455/bptv/10000100000000050000000004270525.m3u8
+鍗庢暟4K,http://154.12.37.223:35455/itv/6000000003 000004748.m3u8?cdn=wasusyt
+绾韩4K,http://154.12.37.223:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+鍜挄4K,http://154.12.37.223: 35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+鍜挄4K,http://154.12.37.223:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+鐖辨儏鑷劧,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LOUPE4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+SITV娆㈢瑧鍓у満,http://154.12.37.223:35455/itv/5000000007000010001.m3u8?cdn=bestzb
+8K棰戦亾,#genre#
+鍖椾含绾疄绉戞暀8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+cctv8k,http://154.12.37.223:35455/gaoma/cctv8k_36m.m3u8
+
 
 China大陆,#genre#
 CCTV-1,p3p://108.181.32.169:29922/67c067ba000b1f61218c71f667bc328c
