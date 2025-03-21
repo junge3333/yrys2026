@@ -1,31 +1,54 @@
 
 影视TV,#genre#
-院线大片,http://lxajh.top/tv/yy.php?id=1354936142
-鬼片,http://lxajh.top/tv/yy.php?id=1383556627
-绝版鬼片,http://lxajh.top/tv/yy.php?id=1356245009
-绝版港片,http://lxajh.top/tv/yy.php?id=1461579859
-动作港片,http://lxajh.top/tv/yy.php?id=1455225203
-僵尸港片,http://lxajh.top/tv/yy.php?id=1382780025
-玄幻电影1,http://lxajh.top/tv/yy.php?id=1354932444
-玄幻电影2,http://lxajh.top/tv/yy.php?id=1455460998
-老卓电影,http://lxajh.top/tv/yy.php?id=1354770516
-林正英电影,http://lxajh.top/tv/yy.php?id=1382841203
-经典电影,http://lxajh.top/tv/yy.php?id=1356213622
-热血动作,http://lxajh.top/tv/yy.php?id=1382736804
-国产大片,http://lxajh.top/tv/yy.php?id=1354926655
-精彩动作,http://lxajh.top/tv/yy.php?id=1382736823
-科幻经典,http://lxajh.top/tv/yy.php?id=1355065896
-科幻大片,http://lxajh.top/tv/yy.php?id=1354930887
-科幻影片,http://lxajh.top/tv/yy.php?id=1382745114
-科幻片,http://lxajh.top/tv/yy.php?id=1354930897
-外国科幻,http://lxajh.top/tv/yy.php?id=1382747628
-高分科幻,http://lxajh.top/tv/yy.php?id=1382851586
-经典港片,http://lxajh.top/tv/yy.php?id=1459801818
-精彩动作,http://lxajh.top/tv/yy.php?id=1382736809
-漫威电影,http://lxajh.top/tv/yy.php?id=1354933556
-战争大片,http://lxajh.top/tv/yy.php?id=1382745092
-战争大片,http://lxajh.top/tv/yy.php?id=1354930957
-生存大战,http://lxajh.top/tv/yy.php?id=1414864186
+超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
+北京IPTV 4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+北京IPTV 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND 
+北京IPTV 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND 
+北京IPTV 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND 
+北京IPTV 淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+
+
+
+POPC,http://j.s.bkpcp.top/js/popc POPC,http://j.s.bkpcp.top/js/popc1 
+Now爆谷台,http://j.s.bkpcp.top/js/nowbgt 
+Now爆谷台,http://j.s.bkpcp.top/js/nowbgt1 
+Now爆谷台,http://j.s.bkpcp.top/js/nowbgt2 
+Now爆谷星影台,http://j.s.bkpcp.top/js/nowxyt 
+Now爆谷星影台,http://j.s.bkpcp.top/js/nowxyt1 
+Now爆谷星影台,http://j.s.bkpcp.top/js/nowxyt2 
+东森电影,http://j.s.bkpcp.top/js/dsdy 
+东森电影,http://j.s.bkpcp.top/js/dsdy1 
+龙祥时代,http://j.s.bkpcp.top/js/lxsd 
+龙华电影,http://j.s.bkpcp.top/js/lhdy
+纬来电影,http://j.s.bkpcp.top/js/wldy
+
+天映经典,http://j.s.bkpcp.top/js/tyjd5 
+天映经典,http://z.b.bkpcp.top/m.php?id=tyjd 
+天映电影,http://j.s.bkpcp.top/js/tyjd6 
+天映经典,http://j.s.bkpcp.top/js/tyjd 
+天映经典,http://j.s.bkpcp.top/js/tyjd1 
+天映经典,http://j.s.bkpcp.top/js/tyjd2 
+天映经典,http://j.s.bkpcp.top/js/tyjd3 
+功夫台,http://z.b.bkpcp.top/m.php?id=gft 
+功夫台,http://j.s.bkpcp.top/js/gft
+
+美亚电影,http://j.s.bkpcp.top/js/mydy 
+美亚电影台,http://j.s.bkpcp.top/js/mydy5 
+美亚电影,http://j.s.bkpcp.top/js/mydy1 
+美亚电影,http://j.s.bkpcp.top/js/mydy2 
+美亚电影,http://j.s.bkpcp.top/js/mydy3 
+美亚电影,http://j.s.bkpcp.top/js/mydy4 
+壹电影,http://j.s.bkpcp.top/js/ydy1 
+壹电影,http://j.s.bkpcp.top/js/ydy 
+iQIYI爱奇艺,http://j.s.bkpcp.top/js/aqy 
+iQIYI爱奇艺,http://z.b.bkpcp.top/m.php?id=aqy 
+TVB星河频道,http://j.s.bkpcp.top/js/xht 
+TVB星河频道,http://j.s.bkpcp.top/js/xht1 
+TVB星河频道,http://j.s.bkpcp.top/js/xht2 
+TVB星河频道国语,http://j.s.bkpcp.top/js/xht3 
+
+欢喜台,http://j.s.bkpcp.top/js/hxt 
+
 
 
 
