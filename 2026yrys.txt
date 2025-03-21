@@ -1,4 +1,21 @@
-
+央视频道,#genre#
+CCTV-1,http://goo.bkpcp.top/mg/cctv1
+CCTV-2,http://goo.bkpcp.top/mg/cctv2
+CCTV-3,http://goo.bkpcp.top/mg/cctv3
+CCTV-4,http://goo.bkpcp.top/mg/cctv4
+CCTV-5,http://goo.bkpcp.top/mg/cctv5
+CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
+CCTV-6,http://goo.bkpcp.top/mg/cctv6
+CCTV-7,http://goo.bkpcp.top/mg/cctv7
+CCTV-8,http://goo.bkpcp.top/mg/cctv8
+CCTV-9,http://goo.bkpcp.top/mg/cctv9
+CCTV-10,http://goo.bkpcp.top/mg/cctv10
+CCTV-11,http://goo.bkpcp.top/mg/cctv11
+CCTV-12,http://goo.bkpcp.top/mg/cctv12
+CCTV-13,http://goo.bkpcp.top/mg/cctv13
+CCTV-14,http://goo.bkpcp.top/mg/cctv14
+CCTV-15,http://goo.bkpcp.top/mg/cctv15
+CCTV-17,http://goo.bkpcp.top/mg/cctv17
 影视TV,#genre#
 
 纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
@@ -11,10 +28,11 @@
 北京IPTV 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND 
 北京IPTV 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND 
 北京IPTV 淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+香港功夫台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
 
 
-
-POPC,http://j.s.bkpcp.top/js/popc POPC,http://j.s.bkpcp.top/js/popc1 
+POPC,http://j.s.bkpcp.top/js/popc 
+POPC,http://j.s.bkpcp.top/js/popc1 
 Now爆谷台,http://j.s.bkpcp.top/js/nowbgt 
 Now爆谷台,http://j.s.bkpcp.top/js/nowbgt1 
 Now爆谷台,http://j.s.bkpcp.top/js/nowbgt2 
@@ -23,7 +41,8 @@ Now爆谷星影台,http://j.s.bkpcp.top/js/nowxyt1
 Now爆谷星影台,http://j.s.bkpcp.top/js/nowxyt2 
 东森电影,http://j.s.bkpcp.top/js/dsdy 
 东森电影,http://j.s.bkpcp.top/js/dsdy1 
-龙祥时代,http://j.s.bkpcp.top/js/lxsd 
+龙祥时代,http://j.s.bkpcp.top/js/lxsd
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://j.s.bkpcp.top/js/lhdy
 纬来电影,http://j.s.bkpcp.top/js/wldy
 
@@ -987,6 +1006,66 @@ yy劇場,#genre#
 古装神剧,http://124.248.69.76:26781/douyu/338759
 爱情公寓,http://124.248.69.76:26781/douyu/2838296
 🎬斗鱼轮播,#genre#
+周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402 
+好先生,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650792 
+庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256 
+欢乐综艺,http://huanqiuzhibo.cn/manifest/douyu.php?id=131977 
+万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456 
+吃米滴虫,http://huanqiuzhibo.cn/manifest/douyu.php?id=315457 
+高分电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=7254536 
+豆瓣高分,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422 
+漫威影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589 
+特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778 
+粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741 
+国产电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5423 
+精彩电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887 
+喜剧电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876 
+动作电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930 
+恐怖电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859 
+恐怖鬼怪,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374 
+童年阴影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323 
+惊悚电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=96577 
+华语影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928 
+神乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894 
+周末影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765 
+周末电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637726 
+兔子影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=8985415 
+冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374 
+刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764 
+奶虫影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824 
+贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802 
+贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332 
+贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337 
+凌儿影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1377142 
+云宝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7305938 
+花卷影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=52787 
+菜园小饼,http://huanqiuzhibo.cn/manifest/douyu.php?id=1735337 
+米娅影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6537888 
+橙記港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169 
+大宝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=805235 
+蚂蚱影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455 
+怡寶影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=434971 
+圆子影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566658 
+贝贝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460 
+可乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415 
+萌牛影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7494871 
+兔兔影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768 
+无双影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4870914 
+下饭神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200 
+古装神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=338759 
+晚湾影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=9461178 
+酒染影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7550220 
+芊珏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=8814650 
+热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351 
+盗墓剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292503 
+金庸武侠,http://huanqiuzhibo.cn/manifest/douyu.php?id=7644931 
+国产剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=8157860 
+国产剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=308752 
+爱情公寓,http://huanqiuzhibo.cn/manifest/douyu.php?id=2838296 
+经典剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=686336
+刘德华,http://huanqiuzhibo.cn/manifest/douyu.php?id=251686
+
+
 周星驰,http://124.248.69.76:26781/douyu/8122402
 刘德华,http://124.248.69.76:26781/douyu/2516864
 好先生,http://124.248.69.76:26781/douyu/9650792
