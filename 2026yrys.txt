@@ -64,6 +64,10 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 
 影视TV,#genre#
 
+年代电影,http://fy27.zbds.top/yy/1356363810
+老电影,http://fy27.zbds.top/yy/1356363815
+
+
 纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 爱上4K,http://101.132.153.183/vpn.php?id=473218
 
