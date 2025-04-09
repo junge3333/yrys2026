@@ -1,4 +1,14 @@
 斗鱼一起看,#genre#
+新白娘子传奇,http://124.126.186.191:9999/yy/1354490667
+新白娘子传奇,http://124.126.186.191:9999/yy/1354930969
+上海滩,http://124.126.186.191:9999/yy/1382745184
+封神榜,http://124.126.186.191:9999/yy/1353
+老三国,http://124.126.186.191:9999/yy/1354936241
+
+
+
+
+
 
 邵氏经典剧场,http://124.126.186.191:9999/douyu/4246519
 邵氏经典剧场,http://110.40.64.98:8086/douyu/4246519
@@ -808,100 +818,6 @@
 怀旧经典影视,http://121.25.251.239:8100/douyu/12143022
 怀旧经典影视,http://39.100.103.186:5000/douyu/12143022
 怀旧经典影视,http://146.235.206.247:5001/douyu/12143022
-
-
-
-港澳台秒播,#genre#
-翡翠台,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ9YmXkuIDnv6Hnv6Dlj7A%3D
-星空,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtreGs%3D
-功夫,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrZ2Yx
-无线新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrd3h3
-TVB Plus,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrdHZicA%3D%3D
-明珠台,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrbXp0
-无线卫星亚洲台,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrd3h5eg%3D%3D
-天映经典,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrdHlqZA%3D%3D
-天映电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrdHlkeTU%3D
-东森电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrZHNkeQ%3D%3D
-美亚电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrbXlkeTY%3D
-POPC,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrcG8%3D
-黄金华剧场,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtraGpoag%3D%3D
-澳门莲花,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrYW1saA%3D%3D
-中国电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtremdkeQ%3D%3D
-星河国语,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtreGhnOA%3D%3D
-纬来电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrd2xkeQ%3D%3D
-龙祥时代,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrbHhzZA%3D%3D
-龙祥电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrbHhkeQ%3D%3D
-CHC影迷,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtreWlubQ%3D%3D
-CHC动作,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrZG9uZ3o%3D
-CHC家庭,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtramlhdA%3D%3D
-爱尔达综合,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrYWVkemg%3D
-TVBS,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrdHZiczE%3D
-公视,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrZ3Mx
-壹新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtreXh3dA%3D%3D
-年代新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrbmR4dw%3D%3D
-三立新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrc2x4dzI%3D
-中天CIT,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrenRjaXQ%3D
-中视新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrenN4dw%3D%3D
-民视第一台,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrbXNkeQ%3D%3D
-民视新闻台,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrbXN4d3Q%3D
-台视新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrdHN4d3Q%3D
-三立都会,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrc2w%3D
-三立综合,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrc2x6aA%3D%3D
-中天新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrenR4dw%3D%3D
-纬来综合,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrd2x6aA%3D%3D
-中天娱乐,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrenR5bHQ%3D
-三立INEWS,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrc2xJUw%3D%3D
-经典卡通,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtramRrdA%3D%3D
-创世电视,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrY3Nkcw%3D%3D
-东森幼幼,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtrZHN5bw%3D%3D
-好莱坞,http://zhiboapi.feylen.top/fltv/js/cat.php?id=ODg4OC5waHA%2FaWQ95aSx5pWIa29vbnZWdmtraGx3
-好消息1,http://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
-好消息2,http://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
-
-弯弯秒播,#genre#
-凤凰中文,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiAMQ%3D%3D
-凤凰资讯,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Yek5Yew6LWE6K6v
-凤凰香港,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Yek5Yew6aaZ5riv
-有线新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5pyJ57q%2F5paw6Ze7
-18台,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Y2B5YWr5Y%2Bw
-无线新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5peg57q%2F5paw6Ze7
-翡翠,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA57%2Bh57%2Bg
-明珠,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5piO54%2Bg
-HOY TV,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiASE9ZVFY%3D
-TVBS,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiAVFZCUw%3D%3D
-TVBS Plus,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiAVFZCUA%3D%3D
-TVBS新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiAVFZCU%2BaWsOmXuw%3D%3D
-TVB欢乐,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiAVFZCU%2BasouS5kA%3D%3D
-中天新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Lit5aSp5paw6Ze7
-中天亚洲,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Lit5aSp5Lqa5rSy
-台视新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Y%2Bw6KeG5paw6Ze7
-华视新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Y2O6KeG5paw6Ze7
-台视财经,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Y%2Bw6KeG6LSi57uP
-中视新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Lit6KeG5paw6Ze7
-非凡新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA6Z2e5Yeh5paw6Ze7
-镜新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA6ZWc5paw6Ze7
-东森新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Lic5qOu5paw6Ze7
-东森财经,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Lic5qOu6LSi57uP
-半岛新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Y2K5bKb5paw6Ze7
-民视新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5rCR6KeG5paw6Ze7
-民视台湾,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5rCR6KeG5Y%2Bw5rm%2B
-寰宇新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5a%2Bw5a6H5paw6Ze7
-影迷电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5b2x6L%2B355S15b2x
-AMC电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiAQU1D55S15b2x
-靖天电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA6Z2W5aSp55S15b2x
-龙华电影,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA6b6Z5Y2O55S15b2x
-龙华经典,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA6b6Z5Y2O57uP5YW4
-中视经典,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Lit6KeG57uP5YW4
-八大精彩,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5YWr5aSn57K%2B5b2p
-爱尔达娱乐,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA54ix5bCU6L6%2B5aix5LmQ
-台湾戏剧,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Y%2Bw5rm%2B5oiP5Ymn
-TVB星河,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5LiJ56uLSU5FVw%3D%3D
-三立台湾,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5LiJ56uL5Y%2Bw5rm%2B
-纬来体育,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA57qs5p2l5L2T6IKy
-年代新闻,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5bm05Luj5paw6Ze7
-民视,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5rCR6KeG
-台视,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Y%2Bw6KeG
-华视,http://zhiboapi.feylen.top/fltv/js/cat.php?id=MTIzLnBocD9waWQ94pq96ams5LiKb3VwcHBv5LiA5Y2O6KeG
 
 
 ♥️明星专区,#genre#
@@ -1946,7 +1862,6 @@ YY影视,http://103.193.151.146/yy.php?id=13511860
 古装神剧,http://124.248.69.76:26781/douyu/338759
 爱情公寓,http://124.248.69.76:26781/douyu/2838296
 🎬斗鱼轮播,#genre#
-斗鱼,#genre#
 经典剧场,http://zzy789.xyz/douyu1.php?id=4246519
 粤语综艺,http://zzy789.xyz/douyu1.php?id=7919720
 华语经典,http://zzy789.xyz/douyu1.php?id=434971
