@@ -1,0 +1,1200 @@
+﻿
+央视频道,#genre#
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV-1,http://goo.bkpcp.top/mg/cctv1
+CCTV-2,http://goo.bkpcp.top/mg/cctv2
+CCTV-3,http://goo.bkpcp.top/mg/cctv3
+CCTV-4,http://goo.bkpcp.top/mg/cctv4
+CCTV-5,http://goo.bkpcp.top/mg/cctv5
+CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
+CCTV-6,http://goo.bkpcp.top/mg/cctv6
+CCTV-7,http://goo.bkpcp.top/mg/cctv7
+CCTV-8,http://goo.bkpcp.top/mg/cctv8
+CCTV-9,http://goo.bkpcp.top/mg/cctv9
+CCTV-10,http://goo.bkpcp.top/mg/cctv10
+CCTV-11,http://goo.bkpcp.top/mg/cctv11
+CCTV-12,http://goo.bkpcp.top/mg/cctv12
+CCTV-13,http://goo.bkpcp.top/mg/cctv13
+CCTV-14,http://goo.bkpcp.top/mg/cctv14
+CCTV-15,http://goo.bkpcp.top/mg/cctv15
+ CCTV-17,http://goo.bkpcp.top/mg/cctv17
+
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
+CCTV发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl
+CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs
+CGTN,http://z.b.bkpcp.top/m.php?id=cgtn
+CGTN纪录,http://z.b.bkpcp.top/m.php?id=cgtnjl
+CCTV西班牙语,http://z.b.bkpcp.top/m.php?id=cgtne
+CCTV法语,http://z.b.bkpcp.top/m.php?id=cgtnf
+CCTV阿拉伯语,http://z.b.bkpcp.top/m.php?id=cgtna
+CCTV俄语,http://z.b.bkpcp.top/m.php?id=cgtnr
+CETV 1 中国教育,http://z.b.bkpcp.top/m.php?id=cetv1
+CETV 2 中国教育,http://z.b.bkpcp.top/m.php?id=cetv2
+CETV 4 中国教育,http://z.b.bkpcp.top/m.php?id=cetv4
+亞洲經典唱片,#genre#
+
+亚洲经典,http://goldfm.cn:8000/goldfm
+
+试播,#genre#
+Now爆谷,https://gdfire2.67890123.cn:8088/live/nowbg.m3u8
+Now星影,https://gdfire2.67890123.cn:8088/live/nowxy.m3u8
+TVB功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+星河台,http://php.jdshipin.com/smt.php?id=Xinhe
+星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河台,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+美亚电影 粤语,http://ali.hlspull.yximgs.com/live/9305412d0d0509679738ca4ef52c97af.flv
+美亚电影 国语,http://ali.hlspull.yximgs.com/live/d814d4ed610927728e53a747c16b7454.flv
+星河频道 粤语,http://ali.hlspull.yximgs.com/live/f62fb3b76ed2a0c36940f235f46bba79.flv
+星河频道 国语,http://ali.hlspull.yximgs.com/live/1b15ad5eadc07cf9ea9dfd13d0112586.flv
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+经典邵氏,http://lxajh.top/tv/douyu.php?id=4246519
+经典影视台,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
+星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+斗鱼电影141,http://zzy789.xyz/douyu1.php?id=7623292
+經典港剧,http://dns.yiandrive.com:15907/douyu/5261342
+緯來電影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+緯來電影,http://108.181.20.197/livehttpplay?channel_id=20199
+龍華電影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+AXN 频道,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
+CINEM AX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
+AMC 電影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
+好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062
+东森洋片,http://108.181.20.197/livehttpplay?channel_id=20080
+龙祥时代电影,http://108.181.20.197/livehttpplay?channel_id=20114
+
+龙华日韩,http://108.181.20.197/livehttpplay?channel_id=20081
+龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023
+美亚电影,http://108.181.20.197/livehttpplay?channel_id=20197
+FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
+天映经典频道,http://go1.bkpcp.top/tl/null-1 
+天映经典,http://108.181.20.197/livehttpplay?channel_id=20063
+天映电影,http://live4play.uk/livehttpplay?channel_id=10130
+
+🛰️国际空间站,#genre#
+国际空间站,http://dns.yiandrive.com:15907/bilibili/9196015
+PopC电影台[1920x1080],http://150.138.77.132:10037/150.php?id=POPC
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
+美亞電影,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+
+龍華電影,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie
+東森洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvwestern
+東森電影,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvmovie
+美亞電影,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+龍華洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
+龍祥时代,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
+
+
+龍華偶像,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaidol_twn
+龍華戲劇,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaxiju_twn
+龍華洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
+龍華經典,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuajingdian_twn
+天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod#http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+
+🎬經典影视轮播,#genre# 
+
+Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/1.m3u8?tenantId=8601&accountinfo=~~V2.0~SSxnh2gPZaV_9wZMz86ofwc38bf04ecfc078f584095a9c6e91b9e1~3twbaBwUaqzfkJ5qW9C0gp1C11OJXhanim-P8XrfoHFX-jV3R0FL2wbo-VR8pOhzd5938d01ed8f640cebb709a281e7b1d3~ExtInfo9W1qynAo8QtSBzK-JlHBbQ3bb1f3410d135b117fdf58086980a86d:20240603131532:UTC,c864060416ccf5986b3e5940417477879245774,117.148.130.144,20240603131532,4444444684,c864060416ccf5986b3e5940417477879245774,-1,0,1,,,2,1000000201,,,2,23,0,241,9ec0a2dcdcfd4259318d50a38cde552c,,,1,1,140151867,END&fbl=$超清
+经典乡村,http://cdn.jdshipin.com:8880/huya.php?id=30080255
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
+華诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
+經典影視輪播,http://i.880824.xyz:35455/douyu/12143858
+經典影視台,http://i.880824.xyz:35455/douyu/6091425
+邵氏電影,http://120.76.248.139/live/lunbo/ssdy.m3u8
+1905电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
+1905電影1,http://xxwx.yoesun.com/1905dy.php
+1905電影2,http://120.76.248.139/live/lunbo/dppd.m3u8
+邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
+POPC电影,http://go1.bkpcp.top/tl/popc
+邵氏影院,http://i.880824.xyz:35455/douyu/4246519
+影渣好剧,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
+天映經典,http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=MD4D4914978049149780&ct=19955&tsum=f559497d6460d2c46621e285faa7cad4
+东森电影频标,http://live4play.uk/livehttpplay?channel_id=20077
+东森戏剧频高,http://live4play.uk/livehttpplay?channel_id=20072
+东森洋片频标,http://live4play.uk/livehttpplay?channel_id=20080
+龙华电影频标,http://live4play.uk/livehttpplay?channel_id=10129
+龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+龙华洋片频标,http://live4play.uk/livehttpplay?channel_id=20090
+龙华偶像频标,http://live4play.uk/livehttpplay?channel_id=20023
+龙祥时代频高,http://live4play.uk/livehttpplay?channel_id=20114
+纬来电影频高,http://live4play.uk/livehttpplay?channel_id=20199
+纬来戏剧频高,http://live4play.uk/livehttpplay?channel_id=20200
+靖天电影频标,http://live4play.uk/livehttpplay?channel_id=12037
+壹电影频高,http://live4play.uk/livehttpplay?channel_id=20108
+好莱坞电影高,http://live4play.uk/livehttpplay?channel_id=20062
+Fgm电影频标,http://live4play.uk/livehttpplay?channel_id=10123
+Amc电影频标,http://live4play.uk/livehttpplay?channel_id=12036
+HITs电影频道,http://37.27.111.214:8080/live/28/hls.m3u8
+Cinem电影标,http://live4play.uk/livehttpplay?channel_id=20047
+HBo电影壹标,http://live4play.uk/livehttpplay?channel_id=20091
+HBo电影贰标,http://live4play.uk/livehttpplay?channel_id=20092
+HBo电影叁标,http://live4play.uk/livehttpplay?channel_id=20093
+Discover频标,http://live4play.uk/livehttpplay?channel_id=20110
+美亞電影[国],http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美亞電影[国],http://108.181.20.197/livehttpplay?channel_id=20197
+美亞電影[粤],http://108.181.20.197/livehttpplay?channel_id=20197
+東森電影,http://j.s.bkpcp.top/jj/dsdy
+龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+緯來電影,http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
+緯來電影,http://108.181.20.197/livehttpplay?channel_id=20199
+龍祥時代,http://108.181.20.197/livehttpplay?channel_id=20114
+龍祥時代,http://j.s.bkpcp.top/jj/lxsd
+
+FGM電影,http://108.181.20.197/livehttpplay?channel_id=10123
+
+
+功夫(國),http://goo.bkpcp.top/mg/gft
+星河(國),http://j.s.bkpcp.top/jj/xht3
+星河(國)a,http://j.s.bkpcp.top/jj/xht1
+龍華偶像,http://j.s.bkpcp.top/jj/lhox
+龍華戏劇,http://j.s.bkpcp.top/jj/lhxj
+
+经典回顾,http://luobo.bkpcp.top/huya/21059529
+经典回顾,http://itv.91tvb.cc:80/2024/huya.php?id=21059529
+中国电影,http://go1.bkpcp.top/tl/null-6
+
+红色經典,http://luobo.bkpcp.top/huya/11602076
+红色經典,http://itv.91tvb.cc:80/2024/huya.php?id=11602076
+有品电影,http://luobo.bkpcp.top/yy/1354936229
+港影回忆,http://luobo.bkpcp.top/yy/1382851590
+经典怀旧,http://luobo.bkpcp.top/yy/1382793140
+怀旧電影,http://luobo.bkpcp.top/yy/1351186084
+星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星光谍視,http://luobo.bkpcp.top/yy/1353422557
+欣赏频道,#genre#
+国语译制电影,http://6666666.mghost.site/1/dy.php?id=2436390
+第一滴血全集,http://6666666.mghost.site/1/yy2.php?id=1354932355
+敢死队全轮播,http://6666666.mghost.site/1/yy2.php?id=1382735573
+速度与激情集,http://6666666.mghost.site/1/yy2.php?id=1382736911
+漫威系列轮播,http://6666666.mghost.site/1/yy2.php?id=1354932402
+变形金刚轮播,http://6666666.mghost.site/1/yy2.php?id=1382736803
+哈利波特全集,http://6666666.mghost.site/1/yy2.php?id=1382745105
+夺宝奇兵全集,http://6666666.mghost.site/1/yy2.php?id=1382736833
+机械战警全集,http://6666666.mghost.site/1/yy2.php?id=1382736854
+古惑仔国轮播,http://6666666.mghost.site/1/yy2.php?id=1458015189
+黑衣一二轮播,http://6666666.mghost.site/1/yy2.php?id=1354930936
+叠影重重全集,http://6666666.mghost.site/1/yy2.php?id=1382735570
+美剧解说轮播,http://6666666.mghost.site/1/dy.php?id=9643264
+经典美剧解说,http://6666666.mghost.site/1/dy.php?id=9123570
+雪中悍刀行剧,http://6666666.mghost.site/1/hy.php?id=11336592
+庆余年一轮播,http://6666666.mghost.site/1/hy.php?id=11352960
+庆余年二轮播,http://6666666.mghost.site/1/hy.php?id=23740156
+83射雕英雄传,http://6666666.mghost.site/1/yy2.php?id=1354210357
+95神雕侠侣粤,http://6666666.mghost.site/1/yy2.php?id=1354926637
+96笑傲江湖粤,http://6666666.mghost.site/1/dy.php?id=8912325
+87经典红楼梦,http://6666666.mghost.site/1/yy2.php?id=1382745084
+新白娘子轮播,http://6666666.mghost.site/1/yy2.php?id=1354930969
+仙剑奇侠传剧,http://6666666.mghost.site/1/yy2.php?id=1382749903
+花千骨电视剧,http://6666666.mghost.site/1/yy2.php?id=1354943110
+鹊刀门传奇剧,http://6666666.mghost.site/1/yy2.php?id=1355344777
+传闻中的芊芊,http://6666666.mghost.site/1/hy.php?id=21059608
+如懿传电视剧,http://6666666.mghost.site/1/hy.php?id=29465868
+芈月传电视剧,http://6666666.mghost.site/1/hy.php?id=11352975
+延禧攻略轮播,http://6666666.mghost.site/1/hy.php?id=26355864
+与凤行电视剧,http://6666666.mghost.site/1/hy.php?id=26355866
+柳舟记电视剧,http://6666666.mghost.site/1/hy.php?id=23860039
+开端电视轮播,http://6666666.mghost.site/1/hy.php?id=11342397
+我爱男保姆播,http://6666666.mghost.site/1/hy.php?id=29581262
+欢乐颂电视剧,http://6666666.mghost.site/1/dy.php?id=3756989
+好先生电视剧,http://6666666.mghost.site/1/dy.php?id=9650792
+我的体育老师,http://6666666.mghost.site/1/yy2.php?id=1382745169
+如果岁月轮播,http://6666666.mghost.site/1/yy2.php?id=1382736883
+流金岁月轮播,http://6666666.mghost.site/1/yy2.php?id=1382749906
+我的前半生剧,http://6666666.mghost.site/1/yy2.php?id=1382735564
+伪装者电视剧,http://6666666.mghost.site/1/yy2.php?id=1354936244
+火蓝刀锋轮播,http://6666666.mghost.site/1/yy2.php?id=1382737892
+二炮手电视剧,http://6666666.mghost.site/1/yy2.php?id=1354930964
+炮神电视轮播,http://6666666.mghost.site/1/yy2.php?id=22089862
+风筝电视轮播,http://6666666.mghost.site/1/yy2.php?id=1354931585
+武林外传轮播,http://6666666.mghost.site/1/yy2.php?id=1355652820
+渗透电视轮播,http://6666666.mghost.site/1/hy.php?id=30080244
+亮剑电视轮播,http://6666666.mghost.site/1/hy.php?id=30080238
+雪豹电视轮播,http://6666666.mghost.site/1/hy.php?id=29580970
+科幻Fans轮播,http://6666666.mghost.site/1/dy.php?id=3508304
+科幻解说轮播,http://6666666.mghost.site/1/dy.php?id=9338839
+科幻梦工场播,http://6666666.mghost.site/1/hy.php?id=15152155
+粤语戏曲频标,http://go1.bkpcp.top/tl/null-15
+粤语戏曲频陆,p3p://108.181.32.169:40187/679d953d000945e59987130a6e93668b
+粤语长片频标,http://go1.bkpcp.top/tl/null-10
+粤语英超频陆,p3p://108.181.32.169:40187/64d74c1600083555223b68096e79387e
+粤语配音电影,http://6666666.mghost.site/1/yy2.php?id=1356262523
+笑声传奇轮播,http://6666666.mghost.site/1/yy2.php?id=1382736880
+笑傲帮集轮播,http://6666666.mghost.site/1/yy2.php?id=1382735555
+笑傲江湖一季,http://6666666.mghost.site/1/yy2.php?id=1382749896
+笑傲江湖二季,http://6666666.mghost.site/1/yy2.php?id=1382736914
+欢乐集结号播,http://6666666.mghost.site/1/yy2.php?id=1354931582
+欢乐集结号三,http://6666666.mghost.site/1/yy2.php?id=1382736822
+欢乐集结号四,http://6666666.mghost.site/1/yy2.php?id=1382736889
+吐槽大会海天,http://6666666.mghost.site/1/yy2.php?id=1354932379
+吐槽大会二季,http://6666666.mghost.site/1/yy2.php?id=1354936145
+吐槽大会五季,http://6666666.mghost.site/1/yy2.php?id=1354889009
+脱口秀大会肆,http://6666666.mghost.site/1/hy.php?id=30080243
+脱口秀大会伍,http://6666666.mghost.site/1/hy.php?id=11352875
+娱乐扒叔轮播,http://6666666.mghost.site/1/dy.php?id=9624581
+粤语剧集轮播,http://6666666.mghost.site/1/dy.php?id=10338873
+粤语综艺轮播,http://6666666.mghost.site/1/dy.php?id=7919720
+粤语星爷电影,http://6666666.mghost.site/1/hy.php?id=11336587
+粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8780624.flv?auth_info=mQT8n69X9uzguUrGOEYXR7DHi%2FJxNAYjJQtAbUHI4rQ%3D.5742576c4f58546c3435743350313162
+粤语版电影一,http://6666666.mghost.site/1/dy.php?id=5033502
+粤语版电影二,http://6666666.mghost.site/1/dy.php?id=6566671
+粤语版电影三,http://6666666.mghost.site/1/dy.php?id=122674bkpcp.top/jj/gft
+
+
+
+📺經典剧场,#genre#
+
+家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d 
+怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d 
+都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d 
+传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d 
+警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d 
+古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d 
+抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d 
+谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d 
+欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d 
+经典老剧,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d 
+乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d 
+电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d 
+爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d 
+智勇闯关,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d 
+相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d 
+中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d 
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d 
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d 
+经典传奇,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d 
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d 
+第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d 
+金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d 
+
+🎬虎牙影视輪播,#genre# 
+经典谍战片,http://3501776.xyz:35455/huya/21059585
+经典水浒,http://3501776.xyz:35455/huya/26355860
+经典金庸,http://3501776.xyz:35455/huya/11602082
+经典鬼片,http://3501776.xyz:35455/huya/11601960
+搞笑恐怖,http://3501776.xyz:35455/huya/11601960 
+
+
+电影_星爷,http://3501776.xyz:35455/huya/11342412
+电影_周星,http://3501776.xyz:35455/huya/122402 
+电影_星爷（粤）,http://3501776.xyz:35455/huya/11336587 
+电影_周星驰,http://3501776.xyz:35455/huya/1354658049 
+电影_周星驰1,http://3501776.xyz:35455/huya/1382736808 
+电影_英叔,http://3501776.xyz:35455/huya/11342421
+电影_发哥,http://3501776.xyz:35455/huya/11342387 
+电影_周润发,http://3501776.xyz:35455/huya/1354889044 
+电影_成龙,http://3501776.xyz:35455/huya/11342386
+电影_刘德华,http://3501776.xyz:35455/huya/11342424
+电影_刘德华1,http://3501776.xyz:35455/huya/1382745111
+电影_李连杰,http://3501776.xyz:35455/huya/11342390
+电影_洪金宝,http://3501776.xyz:35455/huya/11279251
+电影_洪金宝1,http://3501776.xyz:35455/huya/1354924839 
+电影_梁家辉,http://3501776.xyz:35455/huya/11342429 
+电影_王晶,http://3501776.xyz:35455/huya/11602058
+电影_吴京,http://3501776.xyz:35455/huya/11602041 
+电影_沈腾,http://3501776.xyz:35455/huya/11601968 
+电影_黄渤,http://3501776.xyz:35455/huya/11352876
+电影_徐克,http://3501776.xyz:35455/huya/11352909
+电影_邓超,http://3501776.xyz:35455/huya/11336592
+电影_徐峥,http://3501776.xyz:35455/huya/11602043
+电影_古天乐,http://3501776.xyz:35455/huya/11352935
+电影_古天乐1,http://3501776.xyz:35455/huya/29982675
+电影_张卫健,http://3501776.xyz:35455/huya/11342423
+电影_看好,http://3501776.xyz:35455/huya/508118 
+电影_强森,http://3501776.xyz:35455/huya/21059581
+电影_漫威,http://3501776.xyz:35455/huya/11602034
+电影_宇宙,http://3501776.xyz:35455/huya/11342428
+电影_怪兽,http://3501776.xyz:35455/huya/21059577
+电影_武侠,http://3501776.xyz:35455/huya/11342427
+电影_警匪,http://3501776.xyz:35455/huya/11352886
+电影_罪犯,http://3501776.xyz:35455/huya/11352962
+电影_枪战,http://3501776.xyz:35455/huya/21059579
+电影_海盗,http://3501776.xyz:35455/huya/21059595
+电影_赛车,http://3501776.xyz:35455/huya/11279247
+电影_推荐,http://3501776.xyz:35455/huya/11602041
+电影_救援,http://3501776.xyz:35455/huya/21059594
+电影_热血,http://3501776.xyz:35455/huya/11352934
+电影_盗墓,http://3501776.xyz:35455/huya/21059552
+电影_贺岁,http://3501776.xyz:35455/huya/11601971
+电影_玄幻,http://3501776.xyz:35455/huya/11342414
+电影_谍战,http://3501776.xyz:35455/huya/21059585
+电影_战争,http://3501776.xyz:35455/huya/21059592
+电影_喜剧,http://3501776.xyz:35455/huya/11352877
+电影_港片,http://3501776.xyz:35455/huya/11602043
+电影_国产,http://3501776.xyz:35455/huya/11352973
+电影_梁家辉,http://3501776.xyz:35455/huya/11342429
+电影_刘德华2,http://3501776.xyz:35455/huya/11342424
+电影_甄子丹,http://3501776.xyz:35455/huya/11352935
+电影_周润发,http://3501776.xyz:35455/huya/11342387
+电影_五福星,http://3501776.xyz:35455/huya/11282233
+电影_许冠英,http://3501776.xyz:35455/huya/11601972
+电影_许氏三杰,http://3501776.xyz:35455/huya/1160203
+电影_小鬼头,http://3501776.xyz:35455/huya/11352963
+电影_八点档,http://3501776.xyz:35455/huya/880261
+电影_蜘蛛侠,http://3501776.xyz:35455/huya/21059599
+电影_贺岁片,http://3501776.xyz:35455/huya/11601986
+电影_功夫片,http://3501776.xyz:35455/huya/11352941
+电影_丧尸片,http://3501776.xyz:35455/huya/21059578
+电影_灾难片,http://3501776.xyz:35455/huya/11602075
+电影_谍战片,http://3501776.xyz:35455/huya/21059587
+电影_战争片,http://3501776.xyz:35455/huya/21059574
+电影_犯罪片,http://3501776.xyz:35455/huya/11352974
+电影_古装片,http://3501776.xyz:35455/huya/11336590
+
+电影_高分动作,http://3501776.xyz:35455/huya/11352884
+电影_动作电影,http://3501776.xyz:35455/huya/11602077
+电影_搞笑喜剧,http://3501776.xyz:35455/huya/11342423
+电影_喜剧专场,http://3501776.xyz:35455/huya/11602044
+电影_欢笑影院,http://3501776.xyz:35455/huya/11352894
+电影_不挤影院,http://3501776.xyz:35455/huya/11352897
+电影_国产悬疑,http://3501776.xyz:35455/huya/11342395
+电影_快意江湖,hhttp://3501776.xyz:35455/huya/11342435
+电影_黑帮斗争,http://3501776.xyz:35455/huya/11342419
+电影_古墓系列,http://3501776.xyz:35455/huya/11352913
+电影_女神系列,http://3501776.xyz:35455/huya/11336571
+电影_经典女神,http://3501776.xyz:35455/huya/11352909
+电影_许氏三杰,http://3501776.xyz:35455/huya/11602033
+电影_经典港片,http://3501776.xyz:35455/huya/11352965
+电影_镖行天下,http://3501776.xyz:35455/huya/11352969
+电影_高能反转,http://3501776.xyz:35455/huya/11352887
+电影_嫣然影厅,http://3501776.xyz:35455/huya/11601977
+电影_喜乐影院,http://3501776.xyz:35455/huya/21059580
+电影_蘑菇影厅,http://3501776.xyz:35455/huya/11601981
+电影_搞笑恐怖,http://3501776.xyz:35455/huya/11601960
+电影_死神来了,http://3501776.xyz:35455/huya/11352903
+电影_变形金刚,http://3501776.xyz:35455/huya/21059596
+电影_怪兽系列,http://3501776.xyz:35455/huya/21059554
+
+精选电影_1,http://hulun.top:35455/huya/11602075
+精选电影_2,http://hulun.top:35455/huya/11352884
+精选电影_3,http://hulun.top:35455/huya/21059574
+精选电影_4,http://hulun.top:35455/huya/11342423
+精选电影_5,http://hulun.top:35455/huya/11602044
+精选电影_6,http://hulun.top:35455/huya/11352894
+精选电影_7,http://hulun.top:35455/huya/11342395
+精选电影_8,http://hulun.top:35455/huya/11342435
+精选电影_9,http://hulun.top:35455/huya/11342419
+精选电影_10,http://hulun.top:35455/huya/11352913
+精选电影_11,http://hulun.top:35455/huya/11601977
+精选电影_12,http://hulun.top:35455/huya/11336571
+精选电影_13,http://hulun.top:35455/huya/11352909
+精选电影_14,http://hulun.top:35455/huya/11602033
+精选电影_15,http://hulun.top:35455/huya/11352965
+精选电影_16,http://hulun.top:35455/huya/21059580
+精选电影_17,http://hulun.top:35455/huya/11601981
+精选电影_18,http://hulun.top:35455/huya/11601960
+精选电影_19,http://hulun.top:35455/huya/11352903
+精选电影_20,http://hulun.top:35455/huya/21059554
+精选电影_21,http://hulun.top:35455/huya/11336719
+精选电影_22,http://hulun.top:35455/huya/11352941
+精选电影_23,http://hulun.top:35455/huya/11601986
+精选电影_24,http://hulun.top:35455/huya/21059599
+精选电影_25,http://hulun.top:35455/huya/11352886
+精选电影_26,http://hulun.top:35455/huya/11352962
+精选电影_27,http://hulun.top:35455/huya/21059579
+精选电影_28,http://hulun.top:35455/huya/11279247
+精选电影_29,http://hulun.top:35455/huya/11602041
+精选电影_30,http://hulun.top:35455/huya/11352934
+精选电影_31,http://hulun.top:35455/huya/21059552
+精选电影_32,http://hulun.top:35455/huya/11601971
+精选电影_33,http://hulun.top:35455/huya/21059585
+精选电影_34,http://hulun.top:35455/huya/11352877
+精选电影_35,http://hulun.top:35455/huya/11602043
+精选电影_36,http://hulun.top:35455/huya/11352973
+精选电影_37,http://hulun.top:35455/huya/11336587
+精选电影_38,http://hulun.top:35455/huya/11342390
+精选电影_39,http://hulun.top:35455/huya/11279251
+精选电影_40,http://hulun.top:35455/huya/11342429
+精选电影_41,http://hulun.top:35455/huya/11601972
+精选电影_42,http://hulun.top:35455/huya/11342424
+精选电影_43,http://hulun.top:35455/huya/21059588
+精选电影_44,http://hulun.top:35455/huya/880261
+精选电影_45,http://hulun.top:35455/huya/11342412
+精选电影_46,http://hulun.top:35455/huya/11342421
+精选电影_47,http://hulun.top:35455/huya/11342387
+精选电影_48,http://hulun.top:35455/huya/11602058
+精选电影_49,http://hulun.top:35455/huya/11601968
+精选电影_50,http://hulun.top:35455/huya/11352876
+精选电影_51,http://hulun.top:35455/huya/21059581
+精选电影_52,http://hulun.top:35455/huya/11602034
+精选电影_53,http://hulun.top:35455/huya/11342428
+精选电影_54,http://hulun.top:35455/huya/21059577
+精选电影_55,http://hulun.top:35455/huya/11342386
+精选电影_56,http://hulun.top:35455/huya/11342414
+
+🎬埋堆堆,#genre#
+埋堆堆官方,http://3501776.xyz:35455/huya/23740156             
+鹿鼎记,http://3501776.xyz:35455/huya/29847482
+↓
+创世纪,http://3501776.xyz:35455/huya/29465852
+笑看风云,http://3501776.xyz:35455/huya/29465858
+陀枪师姐,http://3501776.xyz:35455/huya/29465857
+刑事侦缉档案,http://3501776.xyz:35455/huya/29465856
+妙手仁心,http://3501776.xyz:35455/huya/29465853
+野蛮奶奶,http://3501776.xyz:35455/huya/23863796
+扫黄先锋,http://3501776.xyz:35455/huya/29465855
+洗冤录,http://3501776.xyz:35455/huya/29465851
+寻秦记,http://3501776.xyz:35455/huya/29633850
+九阴真经,http://3501776.xyz:35455/huya/23824164
+封神榜,http://3501776.xyz:35455/huya/29465849
+西游记2,http://3501776.xyz:35455/huya/29465859
+楚汉骄雄,http://3501776.xyz:35455/huya/29465854
+金枝欲孽,http://3501776.xyz:35455/huya/29465847
+倚天屠龙记,http://3501776.xyz:35455/huya/30434405
+大唐双龙传,http://3501776.xyz:35455/huya/29465850
+天龙八部,http://3501776.xyz:35455/huya/20985816
+↓
+神雕侠侣,http://3501776.xyz:35455/yy/1351762426
+神雕侠侣粤,http://3501776.xyz:35455/yy/354926637
+笑傲江湖版,http://3501776.xyz:35455/yy/1354930909
+创世纪,http://3501776.xyz:35455/huya/29465852
+笑看风云,http://3501776.xyz:35455/huya/29465858
+陀枪师姐,http://3501776.xyz:35455/huya/29465857
+刑事侦缉档案,http://3501776.xyz:35455/huya/29465856
+妙手仁心,http://3501776.xyz:35455/huya/29465853
+扫黄先锋,http://3501776.xyz:35455/huya/29465855
+洗冤录,http://3501776.xyz:35455/huya/29465851
+寻秦记,http://3501776.xyz:35455/huya/29633850
+九阴真经,http://3501776.xyz:35455/huya/23824164
+封神榜,http://3501776.xyz:35455/huya/29465849
+西游记2,http://3501776.xyz:35455/huya/29465859
+楚汉骄雄,http://3501776.xyz:35455/huya/29465854
+金枝欲孽,http://3501776.xyz:35455/huya/29465847
+倚天屠龙记,http://3501776.xyz:35455/huya/30434405
+大唐双龙传,http://3501776.xyz:35455/huya/29465850
+天龙八部,http://3501776.xyz:35455/huya/20985816
+神雕侠侣,http://6666666.mghost.site/1/yy2.php?id=1351762426
+神雕侠侣粤,http://6666666.mghost.site/1/yy2.php?id=1354926637
+笑傲江湖版,http://6666666.mghost.site/1/yy2.php?id=1354930909
+
+🎬閗魚影視輪播,#genre# 
+经典电视剧,http://zzy789.xyz/douyu1.php?id=5261342
+极速经典电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+极速经典电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+极速经典电影3,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+电影_八戒影院,http://3501776.xyz:35455/douyu/1979257 
+电影_粤语电影2,http://3501776.xyz:35455/douyu/6566671 
+电影_粤语电影3,http://3501776.xyz:35455/douyu/1226741 
+电影_粤语电影98,http://3501776.xyz:35455/douyu/5033502 
+电影_冰冰经典,http://3501776.xyz:35455/douyu/74374 
+电影_凌儿影院,http://3501776.xyz:35455/douyu/1377142 
+电影_小黛兮影,http://3501776.xyz:35455/douyu/11553944 
+电影_神乐影剧,http://3501776.xyz:35455/douyu/122402 
+电影_神乐剧场,http://3501776.xyz:35455/douyu/85894 
+电影_可乐影院,http://3501776.xyz:35455/douyu/20415 
+电影_小宇60帧,http://3501776.xyz:35455/douyu/323876 
+电影_電影劇場,http://3501776.xyz:35455/douyu/7575350 
+电影_花卷陪看,http://3501776.xyz:35455/douyu/52787 
+电影_女神电影,http://3501776.xyz:35455/douyu/747764 
+电影_变种人片,http://3501776.xyz:35455/douyu/9651304  
+电影_贝爷影厅1,http://3501776.xyz:35455/douyu/252802 
+电影_贝爷影厅2,http://3501776.xyz:35455/douyu/36337 
+电影_科幻动作,http://3501776.xyz:35455/douyu/4332 
+电影_欧美大片,http://3501776.xyz:35455/douyu/2793084 
+电影_不一样的电影,http://3501776.xyz:35455/douyu/2632223 
+电影_吃米滴虫,http://3501776.xyz:35455/douyu/315457 
+电影_悬疑惊悚,http://3501776.xyz:35455/douyu/263824 
+电影_华语经典,http://3501776.xyz:35455/douyu/434971 
+电影_邵氏影院,http://3501776.xyz:35455/douyu/4246519 
+电影_港台电影,http://3501776.xyz:35455/douyu/3637778 
+电影_漫威影片,http://3501776.xyz:35455/douyu/6140589 
+电影_豆瓣高分,http://3501776.xyz:35455/douyu/8770422 
+电影_倍速播放,http://3501776.xyz:35455/douyu/4105989 
+电影_宇哥电影,http://3501776.xyz:35455/douyu/413573 
+电影_网神影厅,http://3501776.xyz:35455/douyu/508118 
+电影_霍格影片,http://3501776.xyz:35455/douyu/8814650 
+电影_喜剧电影,http://3501776.xyz:35455/douyu/9292492 
+电影_译制国语,http://3501776.xyz:35455/douyu/2436390 
+电影_喜剧经典,http://3501776.xyz:35455/douyu/9650887 
+电影_下饭神剧,http://3501776.xyz:35455/douyu/276200 
+电影_蚂蚱影院,http://3501776.xyz:35455/douyu/6079455 
+电影_凛冬之地,http://3501776.xyz:35455/douyu/8945323 
+电影_邦德影院,http://3501776.xyz:35455/douyu/9292499 
+电影_林正英,http://3501776.xyz:35455/douyu/7356023 
+电影_林正英1,http://3501776.xyz:35455/douyu/218859 
+电影_刘德华电影,http://3501776.xyz:35455/douyu/2516864 
+电影_周星驰,http://3501776.xyz:35455/douyu/1274132
+漫威剧情原,http://3501776.xyz:35455/douyu/6140589 
+霍格沃茨原,http://3501776.xyz:35455/douyu/8814650 
+欧美大片原,http://3501776.xyz:35455/douyu/2793084 
+贝爷max原,http://3501776.xyz:35455/douyu/4332 
+贝爷影厅原,http://3501776.xyz:35455/douyu/252802 
+鱼宝恐怖原,http://3501776.xyz:35455/douyu/1165374 
+吃奶滴虫原,http://3501776.xyz:35455/douyu/263824 
+喜剧电影原,http://3501776.xyz:35455/douyu/9292492 
+避风影院原,http://3501776.xyz:35455/douyu/9826611 
+吃米滴虫原,http://3501776.xyz:35455/douyu/315457 
+冰冰经典原,http://3501776.xyz:35455/douyu/74374 
+星爷影院原,http://3501776.xyz:35455/douyu/508118 
+瑶瑶恐怖原,http://3501776.xyz:35455/douyu/2935323 
+怡宝影院原,http://3501776.xyz:35455/douyu/434971 
+小黛兮影原,http://3501776.xyz:35455/douyu/11553944 
+萌小鬼片原,http://3501776.xyz:35455/douyu/3928 
+神乐影剧原,http://3501776.xyz:35455/douyu/122402 
+可乐影院原,http://3501776.xyz:35455/douyu/20415 
+小宇60帧原,http://3501776.xyz:35455/douyu/323876 
+恐怖惊悚原,http://3501776.xyz:35455/douyu/96577 
+电影剧场原,http://3501776.xyz:35455/douyu/7575350 
+豆瓣高分原,http://3501776.xyz:35455/douyu/8770422
+
+
+📺閗魚劇场輪播,#genre#  
+
+剧集_泊枫剧场1,http://3501776.xyz:35455/douyu/7623292 
+剧集_TVB剧场1,http://3501776.xyz:35455/douyu/7655471 
+剧集_TVB剧场2,http://3501776.xyz:35455/douyu/4290711 
+剧集_TVB剧场2,http://3501776.xyz:35455/douyu/5522351 
+剧集_经典港剧1,http://3501776.xyz:35455/douyu/4549169 
+剧集_经典港剧2,http://3501776.xyz:35455/douyu/9548850 
+剧集_经典神剧,http://3501776.xyz:35455/douyu/3700024 
+剧集_华语经典,http://3501776.xyz:35455/douyu/3928 
+剧集_舔狗动漫,http://3501776.xyz:35455/douyu/7620081 
+剧集_粤语剧集轮播,http://3501776.xyz:35455/douyu/10338873 
+剧集_粤语轮播港剧,http://3501776.xyz:35455/douyu/9019945 
+剧集_粤语港剧轮播,http://3501776.xyz:35455/douyu/6478650 
+剧集_三国演义,http://3501776.xyz:35455/douyu/7459925 
+剧集_风云,http://3501776.xyz:35455/douyu/431460 
+剧集_古装剧场,http://3501776.xyz:35455/douyu/5908256 
+剧集_小猪优版剧院,http://3501776.xyz:35455/douyu/10297898 
+剧集_欢乐剧场,http://3501776.xyz:35455/douyu/7489563 
+剧集_孙红雷【征服】,http://3501776.xyz:35455/douyu/2726977 
+剧集_快乐剧场,http://3501776.xyz:35455/douyu/6863367 
+🎬YY輪播,#genre#
+探秘中华美食,http://3501776.xyz:35455/yy/1354930954
+周润发,http://3501776.xyz:35455/yy/1354888733
+赌神-发哥,http://3501776.xyz:35455/yy/1354889044
+至尊宝,http://3501776.xyz:35455/yy/1382851590
+星爷经典,http://3501776.xyz:35455/yy/1382736808
+港片电影,http://3501776.xyz:35455/yy/1455891197
+经典港片,http://3501776.xyz:35455/yy/1459801818
+经典大片,http://3501776.xyz:35455/yy/1382749895
+洪金宝,http://3501776.xyz:35455/yy/1354888743
+达叔系列,http://3501776.xyz:35455/yy/1354888728
+林正英,http://3501776.xyz:35455/yy/1462895099
+鬼片恐怖,http://3501776.xyz:35455/yy/1354209316
+武状元,http://3501776.xyz:35455/yy/1382745094
+红色电影,http://3501776.xyz:35455/yy/1382745083
+30年代经典电影,http://3501776.xyz:35455/yy/1356363815
+喜剧爱情,http://3501776.xyz:35455/yy/1382735556
+国产动作,http://3501776.xyz:35455/yy/1382736858
+国产电影,http://3501776.xyz:35455/yy/1382745124
+动作电影,http://3501776.xyz:35455/yy/1382736804
+动作大片,http://3501776.xyz:35455/yy/1354936181
+高分大片,http://3501776.xyz:35455/yy/1382736867
+悬疑电影,http://3501776.xyz:35455/yy/1382735571
+小敏影视,http://3501776.xyz:35455/yy/1382736890
+小鬼当家,http://3501776.xyz:35455/yy/1354658064
+岳宝影剧,http://3501776.xyz:35455/yy/1354926612
+叶问全集,http://3501776.xyz:35455/yy/1382736890
+电影黄飞鸿,http://3501776.xyz:35455/yy/1382736841
+抗战神剧,http://3501776.xyz:35455/yy/1382749950
+西游之双圣战神,http://3501776.xyz:35455/yy/1354936199
+小鱼干,http://3501776.xyz:35455/yy/1382736816
+蒸发太平洋,http://3501776.xyz:35455/yy/1382736825
+院线大片,http://3501776.xyz:35455/yy/1354936142
+海怪来袭,http://3501776.xyz:35455/yy/1382745092
+侏罗纪世界,http://3501776.xyz:35455/yy/1382736851
+超英集结,http://3501776.xyz:35455/yy/1382745091
+动作电影,http://3501776.xyz:35455/yy/1382745096
+黑衣人,http://3501776.xyz:35455/yy/1354930936
+苏联战争,http://3501776.xyz:35455/yy/1354936249
+重生超人,http://3501776.xyz:35455/yy/1354936124
+科幻电影,http://3501776.xyz:35455/yy/1354930209
+科幻片,http://3501776.xyz:35455/yy/1354930897
+科幻片2,http://3501776.xyz:35455/yy/1382745114
+科幻片3,http://3501776.xyz:35455/yy/31382736825
+高分科幻,http://3501776.xyz:35455/yy/1382851586
+外国科幻,http://3501776.xyz:35455/yy/1382747628
+科幻经典,http://3501776.xyz:35455/yy/1354930887
+科幻惊悚片,http://3501776.xyz:35455/yy/1382735543
+漫威经典,http://3501776.xyz:35455/yy/1382736843
+复仇者联盟,http://3501776.xyz:35455/yy/1354936167
+国外动作片,http://3501776.xyz:35455/yy/1354936124
+青春不留,http://3501776.xyz:35455/yy/1382736895
+英雄系列电影,http://3501776.xyz:35455/yy/1382736863
+怪兽片合集,http://3501776.xyz:35455/yy/1354930181
+看看电影,http://3501776.xyz:35455/yy/1460889796
+抗日大片,http://3501776.xyz:35455/yy/1354936160
+惊险抗日,http://3501776.xyz:35455/yy/1382736877
+战争大片,http://3501776.xyz:35455/yy/1354930957
+战争大片2,http://3501776.xyz:35455/yy/1354932397
+拯救瑞恩,http://3501776.xyz:35455/yy/1382749905
+血战狙击岭,http://3501776.xyz:35455/yy/1354936136
+美丽人生,hhttp://3501776.xyz:35455/yy/1354936191
+📺YY影視輪播,#genre#
+新白娘子传奇,http://3501776.xyz:35455/yy/1508902755
+新白娘子传奇1,http://3501776.xyz:35455/yy/1354490667
+新白娘子传奇2,http://3501776.xyz:35455/yy/1354930969
+上海滩,http://3501776.xyz:35455/yy/1382745184
+疯狂一家秀,http://3501776.xyz:35455/yy/1354936169
+老三国,http://3501776.xyz:35455/yy/1354936241
+新三国,http://3501776.xyz:35455/yy/1382851415
+薛仁贵传奇,http://3501776.xyz:35455/yy/1355260662
+鹊刀门传奇,http://3501776.xyz:35455/yy/1461033197
+渴望,http://3501776.xyz:35455/yy/1354930963
+小欢喜,http://3501776.xyz:35455/yy/1382737888
+西游记(张卫健),http://3501776.xyz:35455/yy/1354936155
+情满四合院,http://3501776.xyz:35455/yy/1382735541
+我的前半生,http://3501776.xyz:35455/yy/1382735564
+士兵突击,http://3501776.xyz:35455/yy/1382828766
+刑事档案,http://3501776.xyz:35455/yy/1354932359
+法外风云,http://3501776.xyz:35455/yy/1382736805
+法证先锋Ⅳ,http://3501776.xyz:35455/yy/1354932426
+精彩港剧,http://3501776.xyz:35455/yy/1382736881
+精彩港剧2,http://3501776.xyz:35455/yy/1382745088
+精彩港剧3,http://3501776.xyz:35455/yy/1382736891
+精彩港剧4,http://3501776.xyz:35455/yy/1382736842
+精彩港剧5,http://3501776.xyz:35455/yy/1354930937
+古装港剧,http://3501776.xyz:35455/yy/1354933540
+钟馗传说,http://3501776.xyz:35455/yy/1382736839
+笑傲江湖(国),http://3501776.xyz:35455/yy/1354282410
+笑傲江湖,http://3501776.xyz:35455/yy/1382851576
+笑傲江湖90,http://3501776.xyz:35455/yy/1354930909
+金庸作品,http://3501776.xyz:35455/yy/1356043609
+鹿鼎记,http://3501776.xyz:35455/yy/1382704650
+古装剧,http://3501776.xyz:35455/yy/1354936134
+大染坊,http://3501776.xyz:35455/yy/1354773983
+伪装者,http://3501776.xyz:35455/yy/1354936244
+粟裕大将,http://3501776.xyz:35455/yy/1354926542
+丁大,http://3501776.xyz:35455/yy/1382735579
+影视剧-野山鹰,http://3501776.xyz:35455/yy/1354932395
+热血战争,http://3501776.xyz:35455/yy/1382745087
+传奇英雄,http://3501776.xyz:35455/yy/1382735578
+五号特工组,http://3501776.xyz:35455/yy/1414967772
+无敌燕双鹰,http://3501776.xyz:35455/yy/1354825244
+经典好剧,http://3501776.xyz:35455/yy/1354555195
+小师妹rua,http://3501776.xyz:35455/yy/1382736975
+苦乐村官,http://3501776.xyz:35455/yy/1382736864
+小草青青,http://3501776.xyz:35455/yy/1354658062
+俺娘田小草,http://3501776.xyz:35455/yy/1382741638
+情满四合院,http://3501776.xyz:35455/yy/1382745089
+彩虹—情满四合院,http://3501776.xyz:35455/yy/1382851601
+照见流年深处,http://3501776.xyz:35455/yy/1354930816
+传奇之王,http://3501776.xyz:35455/yy/1354926735
+家人之名,http://3501776.xyz:35455/yy/1382736908
+剑开天门,http://3501776.xyz:35455/yy/34313906
+第8号当铺,http://3501776.xyz:35455/yy/1382736905
+地下交通站,http://3501776.xyz:35455/yy/1382736795
+一笑倾城,http://3501776.xyz:35455/yy/1382735553
+天下第一,http://3501776.xyz:35455/yy/1354780649
+高分影视,http://3501776.xyz:35455/yy/1382736806
+勇敢的心,http://3501776.xyz:35455/yy/1354744544
+少年包青天,http://3501776.xyz:35455/yy/1382736814
+热血战争,http://3501776.xyz:35455/yy/1382773728
+跨过鸭绿江,http://3501776.xyz:35455/yy/1354508622
+国语译制电影,http://3501776.xyz:35455/yy/2436390
+4K画质播电影,http://3501776.xyz:35455/yy/9249162 
+第一滴血全集,http://3501776.xyz:35455/yy/1354932355
+速度与激情集,http://3501776.xyz:35455/yy/1382736911 
+漫威系列轮播,http://3501776.xyz:35455/yy/1354932402 
+变形金刚轮播,http://3501776.xyz:35455/yy/1382736803 
+哈利波特全集,http://3501776.xyz:35455/yy/1382745105 
+夺宝奇兵全集,http://3501776.xyz:35455/yy/1382736833 
+机械战警全集,http://3501776.xyz:35455/yy/1382736854 
+古惑仔国轮播,http://3501776.xyz:35455/yy/458015189 
+黑衣一二轮播,http://3501776.xyz:35455/yy/1354930936 
+叠影重重全集,http://3501776.xyz:35455/yy/1382735570 
+83射雕英雄传,http://3501776.xyz:35455/yy/1354210357 
+95神雕侠侣粤,http://3501776.xyz:35455/yy/1354926637 
+96笑傲江湖版,http://3501776.xyz:35455/yy/1354930909 
+87经典红楼梦,http://3501776.xyz:35455/yy/1382745084 
+新白娘子轮播,http://3501776.xyz:35455/yy/1354930969 
+仙剑奇侠传剧,http://3501776.xyz:35455/yy/1382749903 
+花千骨电视剧,http://3501776.xyz:35455/yy/1354943110 
+少年歌行剧集,http://3501776.xyz:35455/yy/1450556636 
+鹊刀门传奇剧,http://3501776.xyz:35455/yy/1355344777 
+我的体育老师,http://3501776.xyz:35455/yy/1382745169 
+如果岁月轮播,http://3501776.xyz:35455/yy/1382736883 
+流金岁月轮播,http://3501776.xyz:35455/yy/1382749906 
+火蓝刀锋轮播,http://3501776.xyz:35455/yy/1382737892 
+二炮手电视剧,http://3501776.xyz:35455/yy/1354930964 
+炮神电视轮播,http://3501776.xyz:35455/yy/22089862 
+风筝电视轮播,http://3501776.xyz:35455/yy/1354931585 
+武林外传轮播,http://3501776.xyz:35455/yy/1355652820 
+
+🎬閗魚一起看,#genre#
+
+
+邵氏经典剧场,http://3501776.xyz:35455/douyu/4246519
+济公游记,http://3501776.xyz:35455/douyu/12486866
+西游记,http://3501776.xyz:35455/douyu/3113309
+龙视欢乐,http://3501776.xyz:35455/douyu/9374836
+橙記Orange,http://3501776.xyz:35455/douyu/4549169
+武侠剧场,http://3501776.xyz:35455/douyu/9285904
+贝贝,http://3501776.xyz:35455/douyu/431460
+精彩短剧,http://3501776.xyz:35455/douyu/11824307
+小毅影院,http://3501776.xyz:35455/douyu/6906628
+小毅影院2,http://3501776.xyz:35455/douyu/11851549
+奇光影院,http://3501776.xyz:35455/douyu/8009547
+奇光影院2,http://3501776.xyz:35455/douyu/11849873
+冰冰小剧场,http://3501776.xyz:35455/douyu/74374
+吃米滴虫,http://3501776.xyz:35455/douyu/315457
+小猪优版剧院,http://3501776.xyz:35455/douyu/10297898
+伊太刀刀,http://3501776.xyz:35455/douyu/747764
+新蓝翔旧三国,http://3501776.xyz:35455/douyu/12463728
+我的李青,http://3501776.xyz:35455/douyu/12437542
+斗鱼凌宝http://3501776.xyz:35455/douyu/1377142
+斗鱼旧知,http://3501776.xyz:35455/douyu/310926
+燕双鹰,http://3501776.xyz:35455/douyu/3439096
+智仗心,http://3501776.xyz:35455/douyu/5635000
+地下交通站,http://3501776.xyz:35455/douyu/299854
+
+斗鱼剧场,http://119.96.108.140:7001/douyu/12442176
+斗鱼剧场2,http://119.96.108.140:7001/douyu/4290711
+斗鱼剧场3,http://119.96.108.140:7001/douyu/922564
+斗鱼剧场4,http://119.96.108.140:7001/douyu/6911044
+斗鱼剧场5,http://119.96.108.140:7001/douyu/12210085
+斗鱼剧场6,http://3501776.xyz:35455/douyu/12180551
+斗鱼剧场7,http://3501776.xyz:35455/douyu/5522351
+斗鱼剧场8,http://3501776.xyz:35455/douyu/260322
+斗鱼剧场9,http://3501776.xyz:35455/douyu/5261342
+斗鱼剧场10,http://3501776.xyz:35455/douyu/5875025
+斗鱼剧场11,http://3501776.xyz:35455/douyu/12128227
+斗鱼剧场12,http://3501776.xyz:35455/douyu/103487
+斗鱼剧场13,http://3501776.xyz:35455/douyu/2793084
+斗鱼剧场14,http://3501776.xyz:35455/douyu/1274132
+斗鱼剧场15,http://3501776.xyz:35455/douyu/5668371
+斗鱼剧场16,http://3501776.xyz:35455/douyu/7812810
+斗鱼剧场17,http://3501776.xyz:35455/douyu/4944033
+斗鱼剧场18,http://3501776.xyz:35455/douyu/508118
+斗鱼剧场19,http://3501776.xyz:35455/douyu/1006179
+斗鱼剧场20,http://3501776.xyz:35455/douyu/12253936
+斗鱼剧场21,http://3501776.xyz:35455/douyu/4373285
+斗鱼剧场22,http://3501776.xyz:35455/douyu/6863367
+斗鱼剧场23,http://3501776.xyz:35455/douyu/5448413
+斗鱼剧场24,http://3501776.xyz:35455/douyu/7623292
+斗鱼剧场25,http://3501776.xyz:35455/douyu/3700024
+斗鱼剧场26,http://3501776.xyz:35455/douyu/12130861
+斗鱼剧场27,http://3501776.xyz:35455/douyu/8371123
+斗鱼剧场28,http://3501776.xyz:35455/douyu/11931032
+斗鱼剧场29,http://3501776.xyz:35455/douyu/12308334
+斗鱼剧场30,http://3501776.xyz:35455/douyu/8721095
+斗鱼剧场31,http://3501776.xyz:35455/douyu/11996166
+斗鱼剧场32,http://3501776.xyz:35455/douyu/4654883
+斗鱼剧场33,http://3501776.xyz:35455/douyu/965078
+斗鱼剧场34,http://3501776.xyz:35455/douyu/9388931
+斗鱼剧场35,http://3501776.xyz:35455/douyu/9388938
+斗鱼剧场36,http://3501776.xyz:35455/douyu/10298846
+斗鱼剧场37,http://3501776.xyz:35455/douyu/9607934
+港剧剧场,http://3501776.xyz:35455/douyu/5061550
+港剧剧场2,http://3501776.xyz:35455/douyu/6091425
+港剧剧场3,http://3501776.xyz:35455/douyu/7655471
+港剧剧场4,http://3501776.xyz:35455/douyu/7356023
+港剧剧场5,http://3501776.xyz:35455/douyu/8912325
+顺才少爷,http://3501776.xyz:35455/douyu/10084875
+斗鱼影院1,http://3501776.xyz:35455/douyu/9220456
+怀旧经典影视,http://3501776.xyz:35455/douyu/12143022
+
+轮播(备用),#genre#
+成龙,https://live.metshop.top/huya/11342386
+周星驰,https://live.metshop.top/huya/11342412
+李连杰,https://live.metshop.top/huya/11342390
+刘德华,https://live.metshop.top/huya/11342424
+林正英,https://live.metshop.top/huya/11342421
+经典影视,http://lxajh.top/tv/douyu.php?id=12143022
+邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
+热门港剧,http://lxajh.top/tv/douyu.php?id=5522351
+香港赌片,hhttp://lxajh.top/tv/douyu.php?id=315457
+贝爷MAX厅,http://lxajh.top/tv/douyu.php?id=4332
+贝爷影厅1,http://lxajh.top/tv/douyu.php?id=36337
+贝爷影厅2,http://lxajh.top/tv/douyu.php?id=252802
+刀刀影院,http://lxajh.top/tv/douyu.php?id=747764
+吃奶滴虫,http://lxajh.top/tv/douyu.php?id=263824
+漫威系列,http://lxajh.top/tv/douyu.php?id=6140589
+变种人系列,http://lxajh.top/tv/douyu.php?id=9651304
+恐怖鬼怪,http://lxajh.top/tv/douyu.php?id=1165374
+豆瓣高分,http://lxajh.top/tv/douyu.php?id=8770422
+神乐剧场,http://lxajh.top/tv/douyu.php?id=85894
+古装神剧,http://lxajh.top/tv/douyu.php?id=338759
+欧美大片,http://lxajh.top/tv/douyu.php?id=2793084
+瑶瑶恐怖,http://lxajh.top/tv/douyu.php?id=2935323
+怡寶影院,http://lxajh.top/tv/douyu.php?id=434971
+冰冰经典,http://lxajh.top/tv/douyu.php?id=74374
+欧美影院,http://lxajh.top/tv/douyu.php?id=508118
+凌儿影院,http://lxajh.top/tv/douyu.php?id=1377142
+小宇60帧,http://lxajh.top/tv/douyu.php?id=323876
+芊珏影视,http://lxajh.top/tv/douyu.php?id=8814650
+
+📡特闽频道,#genre#
+
+凤凰中文频高,http://live4play.uk/livehttpplay?channel_id=30014
+凤凰资讯频高,http://live4play.uk/livehttpplay?channel_id=30015
+凤凰香港频高,http://live4play.uk/livehttpplay?channel_id=30016
+有线新闻频标,http://live4play.uk/livehttpplay?channel_id=20191
+Now新闻频标,http://live4play.uk/livehttpplay?channel_id=20041
+美亚电影频标,http://live4play.uk/livehttpplay?channel_id=20197
+天映电影频标,http://live4play.uk/livehttpplay?channel_id=10130特闽频道
+天映经典频标,http://live4play.uk/livehttpplay?channel_id=20063
+凤凰中文频标,http://live4play.uk/livehttpplay?channel_id=20065
+凤凰资讯频标,http://live4play.uk/livehttpplay?channel_id=20066
+凤凰香港频标,http://live4play.uk/livehttpplay?channel_id=20067
+东森新闻频标,http://live4play.uk/livehttpplay?channel_id=20082
+三立新闻频标,http://live4play.uk/livehttpplay?channel_id=10126
+年代新闻频标,http://live4play.uk/livehttpplay?channel_id=20033
+非凡新闻频标,http://live4play.uk/livehttpplay?channel_id=20034
+闽壹新闻频标,http://live4play.uk/livehttpplay?channel_id=20028
+民视新闻频标,http://live4play.uk/livehttpplay?channel_id=20097
+今日新闻频标,http://live4play.uk/livehttpplay?channel_id=20043
+公视闽南频标,http://live4play.uk/livehttpplay?channel_id=20087
+民视闽南频标,http://live4play.uk/livehttpplay?channel_id=20074
+中视闽南频标,http://live4play.uk/livehttpplay?channel_id=20088
+华视闽南频标,http://live4play.uk/livehttpplay?channel_id=20086
+台视闽南频标,http://live4play.uk/livehttpplay?channel_id=20076
+tvbs闽南频标,http://live4play.uk/livehttpplay?channel_id=20085
+tvbs欢乐频标,http://live4play.uk/livehttpplay?channel_id=20105
+tvbs精彩频标,http://live4play.uk/livehttpplay?channel_id=20136
+三立戏剧频标,http://live4play.uk/livehttpplay?channel_id=10125
+三立综合频标,http://live4play.uk/livehttpplay?channel_id=12038
+三立都会频高,http://live4play.uk/livehttpplay?channel_id=20100
+中天娱乐频高,http://live4play.uk/livehttpplay?channel_id=20079
+中天综合频高,http://live4play.uk/livehttpplay?channel_id=20064
+采昌综合频标,http://live4play.uk/livehttpplay?channel_id=20141
+八大综合频标,http://live4play.uk/livehttpplay?channel_id=20068
+八大精彩频标,http://live4play.uk/livehttpplay?channel_id=20052
+八大第一频高,http://live4play.uk/livehttpplay?channel_id=20073
+八大娱乐频高,http://live4play.uk/livehttpplay?channel_id=20071
+东森戏剧频高,http://live4play.uk/livehttpplay?channel_id=20072
+东森综合频标,http://live4play.uk/livehttpplay?channel_id=20104
+东森财经频标,http://live4play.uk/livehttpplay?channel_id=20078
+东森电影频标,http://live4play.uk/livehttpplay?channel_id=20077
+东森洋片频标,http://live4play.uk/livehttpplay?channel_id=20080
+龙华洋片频标,http://live4play.uk/livehttpplay?channel_id=20090
+龙华偶像频标,http://live4play.uk/livehttpplay?channel_id=20023
+龙华电影频标,http://live4play.uk/livehttpplay?channel_id=10129
+龙祥时代频高,http://live4play.uk/livehttpplay?channel_id=20114
+纬来电影频高,http://live4play.uk/livehttpplay?channel_id=20199
+纬来戏剧频高,http://live4play.uk/livehttpplay?channel_id=20200
+纬来综合频高,http://live4play.uk/livehttpplay?channel_id=20201
+纬来育乐频高,http://live4play.uk/livehttpplay?channel_id=20202
+纬来日本频高,http://live4play.uk/livehttpplay?channel_id=20303
+靖天电影频标,http://live4play.uk/livehttpplay?channel_id=12037
+大爱综合频标,http://live4play.uk/livehttpplay?channel_id=20032
+国兴卫视频高,http://live4play.uk/livehttpplay?channel_id=20164
+闽壹电影频高,http://live4play.uk/livehttpplay?channel_id=20108
+好莱坞电影高,http://live4play.uk/livehttpplay?channel_id=20062
+Fgm电影频标,http://live4play.uk/livehttpplay?channel_id=10123
+Amc电影频标,http://live4play.uk/livehttpplay?channel_id=12036
+Cinem电影标,http://live4play.uk/livehttpplay?channel_id=20047
+HBo电影壹标,http://live4play.uk/livehttpplay?channel_id=20091
+HBo电影贰标,http://live4play.uk/livehttpplay?channel_id=20092
+HBo电影叁标,http://live4play.uk/livehttpplay?channel_id=20093
+Discover频标,http://live4play.uk/livehttpplay?channel_id=20110
+cn卡通频道标,http://live4play.uk/livehttpplay?channel_id=20048
+尼克卡通频标,http://live4play.uk/livehttpplay?channel_id=20089
+BBC地球频标,http://live4play.uk/livehttpplay?channel_id=20044
+国家地理频标,http://live4play.uk/livehttpplay?channel_id=20037
+动物星球频高,http://live4play.uk/livehttpplay?channel_id=20106
+asia动物频标,http://live4play.uk/livehttpplay?channel_id=20113
+asia-afn频标,http://live4play.uk/livehttpplay?channel_id=20115
+新加坡-8频标,http://live4play.uk/livehttpplay?channel_id=10132
+DAZN壹频标,http://live4play.uk/livehttpplay?channel_id=10104
+DAZN贰频标,http://live4play.uk/livehttpplay?channel_id=10105
+博斯运动壹标,http://live4play.uk/livehttpplay?channel_id=10131
+博斯运动贰标,http://live4play.uk/livehttpplay?channel_id=20311
+博斯高球壹标,http://live4play.uk/livehttpplay?channel_id=20103
+博斯高球贰标,http://live4play.uk/livehttpplay?channel_id=20117
+ElaT体育壹标,http://live4play.uk/livehttpplay?channel_id=20129
+纬来体育频高,http://live4play.uk/livehttpplay?channel_id=20120
+五星体育频高,http://live4play.uk/livehttpplay?channel_id=20060
+广东影视频标,http://live4play.uk/livehttpplay?channel_id=20145
+广东湾区频高,http://live4play.uk/livehttpplay?channel_id=20083
+📡闽南酒店,#genre#
+凤凰资讯频道,http://122.117.71.103:8573/凤凰资讯.m3u8
+中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
+tvbs新闻频道,http://122.117.71.103:8543/tvbs新闻.m3u8
+三立新闻频道,http://122.117.71.103:8542/三立新闻.m3u8
+闽壹新闻频道,http://122.117.71.103:8579/闽壹新闻.m3u8
+民视新闻频道,http://122.117.71.103:8535/民视新闻.m3u8
+公视闽南频道,http://122.117.71.103:8505/公视闽南.m3u8
+民视闽南频道,http://122.117.71.103:8567/民视闽南.m3u8
+中视闽南频道,http://122.117.71.103:8503/中视闽南.m3u8
+华视闽南频道,http://122.117.71.103:8502/华视闽南.m3u8
+台视闽南频道,http://122.117.71.103:8504/台视闽南.m3u8
+三立闽南频道,http://122.117.71.103:8520/三立闽南.m3u8
+三立都会频道,http://122.117.71.103:8521/三立闽南.m3u8
+中天综合频道,http://122.117.71.103:8525/中天综合.m3u8
+中天娱乐频道,http://122.117.71.103:8526/中天娱乐.m3u8
+东森综合频道,http://122.117.71.103:8523/东森综合.m3u8
+东森超视频道,http://122.117.71.103:8524/东森超视.m3u8
+东森财经频道,http://122.117.71.103:8577/东森财经.m3u8
+东森戏剧频道,http://122.117.71.103:8529/东森戏剧.m3u8
+龙华戏剧频道,http://122.117.71.103:8533/龙华戏剧.m3u8
+龙华卡通频道,http://122.117.71.103:8516/龙华卡通.m3u8
+龙华电影频道,http://122.117.71.103:8555/龙华电影.m3u8
+纬来电影频道,http://122.117.71.103:8554/纬来电影.m3u8
+纬来综合频道,http://122.117.71.103:8517/纬来综合.m3u8
+纬来戏剧频道,http://122.117.71.103:8532/纬来戏剧.m3u8
+纬来育乐频道,http://122.117.71.103:8563/纬来育乐.m3u8
+纬来体育频道,http://122.117.71.103:8562/纬来体育.m3u8
+八大第一频道,http://122.117.71.103:8518/八大第一.m3u8
+八大综合频道,http://122.117.71.103:8519/八大综合.m3u8
+八大戏剧频道,http://122.117.71.103:8530/八大戏剧.m3u8
+年代综合频道,http://122.117.71.103:8565/年代综合.m3u8
+东风卫视频道,http://122.117.71.103:8527/东风卫视.m3u8
+动物星球频道,http://122.117.71.103:8512/动物星球.m3u8
+CInemax频道,http://122.117.71.103:8558/CInemax.m3u8
+Amc电影频道,http://122.117.71.103:8559/AmC电影.m3u8
+MoMoTV频道,http://122.117.71.103:8564/MoMoTV.m3u8
+MoMo亲子国,http://122.117.71.103:8514/MoMo亲子.m3u8
+Obcyoyo频道,http://122.117.71.103:8515/Obcyoyo.m3u8
+TLC综合频道,http://122.117.71.103:8511/TLC综合.m3u8
+Nhk日闻频道,http://122.117.71.103:8580/Nhk日闻.m3u8
+BloomBerg频,http://122.117.71.103:8581/BloomBerg.m3u8
+📡闽南频道,#genre#
+东森新闻频高,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
+寰宇新闻频高,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
+民视新闻频标,http://108.181.21.27:27347/livehttpplay?channel_id=20097
+年代新闻频高,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+非凡新闻频标,http://108.181.21.27:27347/livehttpplay?channel_id=20034
+闽壹新闻频标,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+今日新闻频标,http://108.181.21.27:27347/livehttpplay?channel_id=20043
+公视闽南频标,http://108.181.21.27:27347/livehttpplay?channel_id=20087
+tvbs闽南频标,http://108.181.21.27:27347/livehttpplay?channel_id=20085
+tvbs欢乐频高,http://108.181.21.27:27347/livehttpplay?channel_id=20105
+tvbs精彩频标,http://108.181.21.27:27347/livehttpplay?channel_id=20136
+三立戏剧频标,http://108.181.21.27:27347/livehttpplay?channel_id=10125
+中天综合频高,http://108.181.21.27:27347/livehttpplay?channel_id=20064
+八大综合频高,http://108.181.21.27:27347/livehttpplay?channel_id=20068
+八大第一频高,http://108.181.21.27:27347/livehttpplay?channel_id=20073
+八大精彩频标,http://108.181.21.27:27347/livehttpplay?channel_id=20052
+东森财经频标,http://108.181.21.27:27347/livehttpplay?channel_id=20078
+美亚电影频标,http://108.181.21.27:27347/livehttpplay?channel_id=20197
+龙华电影频标,http://108.181.21.27:27347/livehttpplay?channel_id=10129
+龙华电影频高,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典频高,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通频高,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像频高,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩频高,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧频高,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片频标,http://108.181.21.27:27347/livehttpplay?channel_id=20090
+Fgm电影频标,http://108.181.21.27:27347/livehttpplay?channel_id=10123
+CNN新闻频标,http://108.181.21.27:27347/livehttpplay?channel_id=10123
+cn卡通频道高,http://108.181.21.27:27347/livehttpplay?channel_id=20048
+尼克卡通频标,http://108.181.21.27:27347/livehttpplay?channel_id=20089
+BBC地球频标,http://108.181.21.27:27347/livehttpplay?channel_id=20044
+动物星球道高,http://108.181.21.27:27347/livehttpplay?channel_id=2010
+五星体育频高,http://108.181.21.27:27347/livehttpplay?channel_id=20060
+博斯高球壹标,http://108.181.21.27:27347/livehttpplay?channel_id=20103
+博斯高球贰标,http://108.181.21.27:27347/livehttpplay?channel_id=20117
+博斯运动贰标,http://108.181.21.27:27347/livehttpplay?channel_id=20311
+ElaT体育壹标,http://108.181.21.27:27347/livehttpplay?channel_id=20129
+凤凰香港频高,http://108.181.21.27:27347/livehttpplay?channel_id=30016
+广东影视频标,http://108.181.21.27:27347/livehttpplay?channel_id=20145
+🎬电影频道👉全网☘️☘️💝,#genre#
+
+邵氏影院,http://dns.yiandrive.com:15907/douyu/4246519
+邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
+邵氏影院,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=4246519
+悬疑烧脑,http://dns.yiandrive.com:15907/yy/1354930903
+新白娘子,http://dns.yiandrive.com:15907/yy/1508902755
+狄仁杰1-4,http://dns.yiandrive.com:15907/douyu/6027991
+国产大片,http://dns.yiandrive.com:15907/yy/1354926655
+经典港剧,http://dns.yiandrive.com:15907/douyu/5261342
+战争巨片,http://dns.yiandrive.com:15907/yy/1354936249
+緯來電影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
+龍華電影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+HBO 频道,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
+AXN 频道,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
+CINEM AX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
+AMC 電影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
+東森戲劇,http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
+緯來戲劇,http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
+龍華戲劇,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
+八大戲劇,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
+東森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
+龍華卡通,http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://mtw.so/5NPX0U
+搞笑恐怖,http://124.248.69.76:26781/huya/11601960
+万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456 
+吃米滴虫,http://huanqiuzhibo.cn/manifest/douyu.php?id=315457 
+高分电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=7254536 
+豆瓣高分,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422 
+漫威影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589 
+特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778 
+粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741 
+国产电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=5423 
+精彩电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887 
+喜剧电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=323876 
+动作电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930 
+恐怖电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859 
+恐怖鬼怪,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374 
+童年阴影,http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323 
+惊悚电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=96577 
+华语影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928 
+神乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894 
+周末影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765 
+周末电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637726 
+兔子影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=8985415 
+冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374 
+刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764 
+奶虫影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=263824 
+贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802 
+贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332 
+贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337 
+凌儿影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1377142 
+云宝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7305938 
+花卷影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=52787 
+菜园小饼,http://huanqiuzhibo.cn/manifest/douyu.php?id=1735337 
+米娅影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6537888 
+橙記港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169 
+大宝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=805235 
+蚂蚱影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455 
+怡寶影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=434971 
+圆子影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566658 
+贝贝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460 
+可乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415 
+萌牛影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7494871 
+兔兔影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768 
+无双影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4870914 
+下饭神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200 
+古装神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=338759 
+晚湾影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=9461178 
+酒染影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7550220 
+芊珏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=8814650 
+热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351 
+盗墓剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292503 
+金庸武侠,http://huanqiuzhibo.cn/manifest/douyu.php?id=7644931 
+国产剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=8157860 
+国产剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=308752 
+爱情公寓,http://huanqiuzhibo.cn/manifest/douyu.php?id=2838296 
+经典剧集,http://huanqiuzhibo.cn/manifest/douyu.php?id=686336
+奶虫影院,http://zzy789.xyz/douyu1.php?id=263824
+绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+新昌休闲,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+
+新白娘子传奇,#genre#,
+第01集,https://vip.ffzy-online.com/20221207/29683_1338bd77/2000k/hls/mixed.m3u8
+
+第02集,https://vip.ffzy-online.com/20221207/29684_3dab2eb4/2000k/hls/mixed.m3u8
+
+第03集,https://vip.ffzy-online.com/20221207/29685_3aa793d0/2000k/hls/mixed.m3u8
+
+第04集,https://vip.ffzy-online.com/20221207/29686_4c6279f8/2000k/hls/mixed.m3u8
+
+第05集,https://vip.ffzy-online.com/20221207/29687_482d76ca/2000k/hls/mixed.m3u8
+
+第06集,https://vip.ffzy-online.com/20221207/29688_9196285b/2000k/hls/mixed.m3u8
+
+第07集,https://vip.ffzy-online.com/20221207/29689_13d6579f/2000k/hls/mixed.m3u8
+
+第08集,https://vip.ffzy-online.com/20221207/29690_11654f1d/2000k/hls/mixed.m3u8
+
+第09集,https://vip.ffzy-online.com/20221207/29691_e0851f6b/2000k/hls/mixed.m3u8
+
+第10集,https://vip.ffzy-online.com/20221207/29692_62a82934/2000k/hls/mixed.m3u8
+
+第11集,https://vip.ffzy-online.com/20221207/29693_417197b2/2000k/hls/mixed.m3u8
+
+第12集,https://vip.ffzy-online.com/20221207/29696_d11a7fc2/2000k/hls/mixed.m3u8
+
+第13集,https://vip.ffzy-online.com/20221207/29695_94af3488/2000k/hls/mixed.m3u8
+
+第14集,https://vip.ffzy-online.com/20221207/29694_f313e39f/2000k/hls/mixed.m3u8
+
+第15集,https://vip.ffzy-online.com/20221207/29697_c3b30b5b/2000k/hls/mixed.m3u8
+
+第16集,https://vip.ffzy-online.com/20221207/29698_9fd1145e/2000k/hls/mixed.m3u8
+
+第17集,https://vip.ffzy-online.com/20221207/29699_2574173d/2000k/hls/mixed.m3u8
+
+第18集,https://vip.ffzy-online.com/20221207/29700_ec704d9e/2000k/hls/mixed.m3u8
+
+第19集,https://vip.ffzy-online.com/20221207/29701_69c8b28a/2000k/hls/mixed.m3u8
+
+第20集,https://vip.ffzy-online.com/20221207/29702_6d69a791/2000k/hls/mixed.m3u8
+
+第21集,https://vip.ffzy-online.com/20221207/29703_1002bc52/2000k/hls/mixed.m3u8
+
+第22集,https://vip.ffzy-online.com/20221207/29704_fea082ab/2000k/hls/mixed.m3u8
+
+第23集,https://vip.ffzy-online.com/20221207/29705_629acd3f/2000k/hls/mixed.m3u8
+
+第24集,https://vip.ffzy-online.com/20221207/29706_69fefb33/2000k/hls/mixed.m3u8
+
+第25集,https://vip.ffzy-online.com/20221207/29707_5a886a1e/2000k/hls/mixed.m3u8
+
+第26集,https://vip.ffzy-online.com/20221207/29708_016bf157/2000k/hls/mixed.m3u8
+
+第27集,https://vip.ffzy-online.com/20221207/29709_c75372f5/2000k/hls/mixed.m3u8
+
+第28集,https://vip.ffzy-online.com/20221207/29710_590736d3/2000k/hls/mixed.m3u8
+
+第29集,https://vip.ffzy-online.com/20221207/29711_9e974705/2000k/hls/mixed.m3u8
+
+第30集,https://vip.ffzy-online.com/20221207/29712_2aa40cc3/2000k/hls/mixed.m3u8
+
+第31集,https://vip.ffzy-online.com/20221207/29716_f04c8440/2000k/hls/mixed.m3u8
+
+第32集,https://vip.ffzy-online.com/20221207/29714_1cdf1b0f/2000k/hls/mixed.m3u8
+
+第33集,https://vip.ffzy-online.com/20221207/29715_c0a73cad/2000k/hls/mixed.m3u8
+
+第34集,https://vip.ffzy-online.com/20221207/29713_187b2074/2000k/hls/mixed.m3u8
+
+第35集,https://vip.ffzy-online.com/20221207/29718_c175214e/2000k/hls/mixed.m3u8
+
+第36集,https://vip.ffzy-online.com/20221207/29719_d3467fad/2000k/hls/mixed.m3u8
+
+第37集,https://vip.ffzy-online.com/20221207/29717_9c07630f/2000k/hls/mixed.m3u8
+
+第38集,https://vip.ffzy-online.com/20221207/29721_56fb1f46/2000k/hls/mixed.m3u8
+
+第39集,https://vip.ffzy-online.com/20221207/29720_2eaef0db/2000k/hls/mixed.m3u8
+
+第40集,https://vip.ffzy-online.com/20221207/29723_b30ec713/2000k/hls/mixed.m3u8
+
+第41集,https://vip.ffzy-online.com/20221207/29724_08be935c/2000k/hls/mixed.m3u8
+
+第42集,https://vip.ffzy-online.com/20221207/29722_37980174/2000k/hls/mixed.m3u8
+
+第43集,https://vip.ffzy-online.com/20221207/29729_469473d2/2000k/hls/mixed.m3u8
+
+第44集,https://vip.ffzy-online.com/20221207/29725_b8e6a502/2000k/hls/mixed.m3u8
+
+第45集,https://vip.ffzy-online.com/20221207/29728_a8c45209/2000k/hls/mixed.m3u8
+
+第46集,https://vip.ffzy-online.com/20221207/29726_a6ffe05a/2000k/hls/mixed.m3u8
+
+第47集,https://vip.ffzy-online.com/20221207/29727_832a6fab/2000k/hls/mixed.m3u8
+
+第48集,https://vip.ffzy-online.com/20221207/29730_5b1a05cd/2000k/hls/mixed.m3u8
+
+第49集,https://vip.ffzy-online.com/20221207/29732_fa83b88d/2000k/hls/mixed.m3u8
+
+第50集,https://vip.ffzy-online.com/20221207/29731_1cea3325/2000k/hls/mixed.m3u8
