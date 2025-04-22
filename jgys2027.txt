@@ -80,19 +80,15 @@ Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 邵氏电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
-
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://124.248.69.76:26781/douyu/4246519
-
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
-華诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-經典影視輪播,http://i.880824.xyz:35455/douyu/12143858
-經典影視台,http://i.880824.xyz:35455/douyu/6091425
-邵氏電影,http://120.76.248.139/live/lunbo/ssdy.m3u8
-1905电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
-1905電影1,http://xxwx.yoesun.com/1905dy.php
-1905電影2,http://120.76.248.139/live/lunbo/dppd.m3u8
+經典影視輪播,http://3501776.xyz:35455/douyu/12143858
+經典影視台,http://3501776.xyz:35455/douyu/6091425
+1905电影①,http://120.76.248.139/live/lunbo/ssdy.m3u8
+1905電影②,http://xxwx.yoesun.com/1905dy.php
+1905電影③,http://120.76.248.139/live/lunbo/dppd.m3u8
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 POPC电影,http://go1.bkpcp.top/tl/popc
@@ -180,7 +176,7 @@ FGM電影,http://108.181.20.197/livehttpplay?channel_id=10123
 第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d 
 金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d 
 
-🎬
+
 📺虎牙埋堆堆,#genre#
 埋堆堆1,http://103.193.151.146/huya.php?id=23749096
 埋堆堆2,http://103.193.151.146/huya.php?id=23735126
