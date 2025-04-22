@@ -399,6 +399,7 @@ FGM電影,http://108.181.20.197/livehttpplay?channel_id=10123
 电影_怪兽系列,https://fmbox.cc/huya.php?id=21059554
 香港喜剧大全,http://103.193.151.146/huya.php?id=23865080
 香港喜剧大全,https://fmbox.cc/huya.php?id=23865080
+🎬虎牙放映厅,#genre#
 虎牙电影1,http://103.193.151.146/huya.php?id=11601960
 虎牙电影1,https://fmbox.cc/huya.php?id=11601960
 虎牙电影2,http://103.193.151.146/huya.php?id=11602033
